@@ -1,4 +1,4 @@
-# Software + packeges we'll need for this session!
+# Software + Packages we'll need for this session!
 
 Software: 
 - Anaconda
